@@ -51,7 +51,7 @@ This task is part of Elevate Labs – Task 7 and is aimed at learning basic data
 This analysis is useful for visualizing and understanding student performance trends using simple SQL and Python tools. You can easily extend it to add more subjects, students, or advanced insights like ranking, outlier detection, etc.
 
 
-### **Author**
+## **Author**
 
 **Anjali Singh**  
 
